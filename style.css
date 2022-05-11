@@ -52,15 +52,3 @@
     border-radius: 5px;
 }
 
-#titulo{
-    position: absolute;
-    background-color: rgba(0,0,0,0.8);
-    bottom: 5%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border-radius: 15px;
-    padding: 15px;
-    font-size:13px;
-    color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
-}
